@@ -3,4 +3,4 @@ Hello World Repository
 
 Hello!!!
 
-This is a example of a commit message.
+This is a connent for the README file
